@@ -1,0 +1,15 @@
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\conversão implicita\bin\Debug\net8.0\conversão implicita.exe
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\conversão implicita\bin\Debug\net8.0\conversão implicita.deps.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\conversão implicita\bin\Debug\net8.0\conversão implicita.runtimeconfig.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\conversão implicita\bin\Debug\net8.0\conversão implicita.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\conversão implicita\bin\Debug\net8.0\conversão implicita.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\conversão implicita\obj\Debug\net8.0\conversão implicita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\conversão implicita\obj\Debug\net8.0\conversão implicita.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\conversão implicita\obj\Debug\net8.0\conversão implicita.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\conversão implicita\obj\Debug\net8.0\conversão implicita.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\conversão implicita\obj\Debug\net8.0\conversão implicita.sourcelink.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\conversão implicita\obj\Debug\net8.0\conversão implicita.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\conversão implicita\obj\Debug\net8.0\refint\conversão implicita.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\conversão implicita\obj\Debug\net8.0\conversão implicita.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\conversão implicita\obj\Debug\net8.0\conversão implicita.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\conversão implicita\obj\Debug\net8.0\ref\conversão implicita.dll

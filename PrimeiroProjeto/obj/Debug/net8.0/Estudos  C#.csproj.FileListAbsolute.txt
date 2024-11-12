@@ -1,0 +1,15 @@
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\bin\Debug\net8.0\Estudos  C#.exe
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\bin\Debug\net8.0\Estudos  C#.deps.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\bin\Debug\net8.0\Estudos  C#.runtimeconfig.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\bin\Debug\net8.0\Estudos  C#.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\bin\Debug\net8.0\Estudos  C#.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\obj\Debug\net8.0\Estudos  C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\obj\Debug\net8.0\Estudos  C#.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\obj\Debug\net8.0\Estudos  C#.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\obj\Debug\net8.0\Estudos  C#.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\obj\Debug\net8.0\Estudos  C#.sourcelink.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\obj\Debug\net8.0\Estudos  C#.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\obj\Debug\net8.0\refint\Estudos  C#.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\obj\Debug\net8.0\Estudos  C#.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\obj\Debug\net8.0\Estudos  C#.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Estudos  C#\obj\Debug\net8.0\ref\Estudos  C#.dll
